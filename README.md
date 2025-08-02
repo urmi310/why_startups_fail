@@ -84,7 +84,7 @@ Open the folder and follow the "How to Run" steps.
 
 ### 🔗 Interactive Notebook
 
-You can explore the analysis in this [Google Colab notebook](https://colab.research.google.com/github/urmi310/why_startups_fail/blob/main/startup_failure_analysis.ipynb).
+You can explore the analysis in this [Google Colab notebook](https://colab.research.google.com/github/urmi310/why_startups_fail/blob/main/startup_analysis.ipynb).
 
 
 
