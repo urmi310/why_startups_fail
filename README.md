@@ -33,54 +33,66 @@ This project explores the key factors that contribute to startup failures using 
 - Seaborn
 - Google Colab
 - GitHub for version control
-
+  
+---
   🚀 Why Startups Fail — Predictive Analysis Project
+
+  
 📌 Description
 This project analyzes startup failure patterns using real-world data. It involves:
 
-Data preprocessing and exploration using Python
+-Data preprocessing and exploration using Python
+-Industry-wise failure visualization with Matplotlib
+-Deployment-ready project structure for showcasing on GitHub
 
-Industry-wise failure visualization with Matplotlib
+---
 
-Deployment-ready project structure for showcasing on GitHub
+## Features
+-Identifies top industries where startups failed
+-Plots bar charts based on failure data
+-Clean and modular code (easy to expand later)
 
- Features
-Identifies top industries where startups failed
-
-Plots bar charts based on failure data
-
-Clean and modular code (easy to expand later)
+---
 
 💻 How to Run This Project
+
 Clone the repo:
 
-git clone https://github.com/urmi310/why_startups_fail.git
-cd why-startups-fail
+-git clone https://github.com/urmi310/why_startups_fail.git
+-cd why-startups-fail
 
-Install dependencies:
+---
+
+## Install dependencies:
 pip install -r requirements.txt
 
-Run the analysis script:
+---
 
+Run the analysis script:
 python analysis.py
 Check the generated charts in the charts/ folder
 
+---
+
 📦 Requirements
-Python 3.x
+-Python 3.x
+-pandas
+-matplotlib
 
-pandas
-
-matplotlib
+---
 
 📝 License
 This project is licensed under the MIT License
 
+---
+
 📂 Download ZIP (If Not Using Git)
-Click Code > Download ZIP on the GitHub repo.
+-Click Code > Download ZIP on the GitHub repo.
+-Unzip it on your machine.
+-Open the folder and follow the "How to Run" steps.
 
-Unzip it on your machine.
+---
 
-Open the folder and follow the "How to Run" steps.
 
 ### 🔗 Interactive Notebook
 
