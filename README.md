@@ -39,7 +39,7 @@ This project explores the key factors that contribute to startup failures using 
 why-startups-fail/
 ├── startup_analysis.py  
 ├── startup_failure_prediction.csv
-    failed_startups.csv
+├── failed_startups_only.csv
 ├── charts/
 │   ├── failure_industries_chart.png  
 │   ├── funding_vs_survival.png  
