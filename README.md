@@ -33,19 +33,7 @@ This project explores the key factors that contribute to startup failures using 
 - Seaborn
 - Google Colab
 - GitHub for version control
-
-- ## 📁 Project Structure
-
-why-startups-fail/
-├── startup_analysis.py  
-├── startup_failure_prediction.csv
-├── failed_startups_only.csv
-├── charts/
-│   ├── failure_industries_chart.png  
-│   ├── funding_vs_survival.png  
-│   ├── burnrate_vs_revenue.png  
-│   └── founder_exp_vs_status.png  
-├── README.md  
+- 
 
 
 
